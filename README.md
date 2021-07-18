@@ -7,3 +7,5 @@ Technologies :
 React.js
 Java
 Spring boot
+HTML
+CSS
